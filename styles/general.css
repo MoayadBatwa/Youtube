@@ -9,3 +9,7 @@ body {
     padding-right: 20px;
     background-color: rgb(244, 244, 244)
 }
+
+a {
+    text-decoration: none;
+}
